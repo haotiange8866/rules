@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "qichiyu.com",
+        "fulijianghu.net",
+        "fulilive.com",
+        "u9a9.de"
+      ]
+    }
+  ]
+}
