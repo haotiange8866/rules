@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,+.inkwai.com
 DOMAIN-SUFFIX,+.ksapisrv.com
 DOMAIN-SUFFIX,+.kuaishou.com
 DOMAIN-SUFFIX,kskwai.com
+DOMAIN-SUFFIX,pro.kskwai.com
 DOMAIN-SUFFIX,+.kwaizt.com
 DOMAIN-SUFFIX,+.kuaishouzt.com
 DOMAIN-SUFFIX,+.kwimgs.com
@@ -29,6 +30,7 @@ DOMAIN-SUFFIX,+.yximgs.com
 DOMAIN-SUFFIX,+.adbkwai.com
 DOMAIN-SUFFIX,+.adkwai.com
 DOMAIN-SUFFIX,+.adukwai.com
+DOMAIN-SUFFIX,kuaishou.httpdns.pro
 DOMAIN-SUFFIX,+.e.kuaishou.cn
 DOMAIN-SUFFIX,+.e.kuaishou.com
 DOMAIN-SUFFIX,log-sdk.gifshow.com
