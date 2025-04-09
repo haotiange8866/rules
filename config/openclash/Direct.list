@@ -349,6 +349,18 @@ DOMAIN-SUFFIX,upaiyun.com
 
 
 # AccelerateDirectSites
+DOMAIN-SUFFIX,53at.com
+DOMAIN-SUFFIX,1foo.com
+DOMAIN-SUFFIX,tv121.com
+DOMAIN-SUFFIX,onrender.com
+DOMAIN-KEYWORD,lxmusicapi
+DOMAIN-SUFFIX,wwentua.com
+DOMAIN-SUFFIX,+.deepseek.com
+DOMAIN-SUFFIX,ddfkj.com
+DOMAIN-SUFFIX,xiangongyun.com
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,12306.com
